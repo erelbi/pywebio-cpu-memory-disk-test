@@ -1,7 +1,8 @@
 # pywebio-cpu-memory-disk-test
 
-- title: CPU|MEMORY| DISK Stress
-  video: https://streamable.com/q25eg8
+steps:
+  - title: CPU|MEMORY| DISK Stress
+    video: https://streamable.com/q25eg8
 
 ## install
 ```sh
