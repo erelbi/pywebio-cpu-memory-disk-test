@@ -1,5 +1,7 @@
 # pywebio-cpu-memory-disk-test
 
+[![Demo](https://streamable.com/q25eg8)](https://streamable.com/q25eg8)
+
 ## install
 ```sh
 sudo apt install python3-pip & yum install --assumeyes python3-pip
