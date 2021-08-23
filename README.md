@@ -1,6 +1,6 @@
 # pywebio-cpu-memory-disk-test
 
-[![Demo](https://streamable.com/q25eg8)](https://streamable.com/q25eg8)
+[![Demo]](https://streamable.com/q25eg8)
 
 ## install
 ```sh
